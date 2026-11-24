@@ -1,18 +1,12 @@
-# 🎨 3D 디자인 공모전 (미래 설계 공모전)
-한국생산성본부 주관 '미래를 위한 3D 디자인 공모전' 출품작입니다.
+# BMS & Circuit Design for 3D Hardware Concept
 
-## 🏆 수상 경력
-* **우수상** 수상
+Hardware electrical design submitted to the **3D Design Competition for the Future (미래를 위한 3D 디자인 공모전)** hosted by the Korea Productivity Center (KPC).  
+Awarded **Excellence Award (우수상)**.
 
-## 🛠️ 내가 담당한 역할 (Circuit & System Design)
-단순한 외형 디자인을 넘어, 실제 작동 가능한 하드웨어 설계를 위해 아래 기능을 담당했습니다.
-* **BMS(Battery Management System) 설계:** 안정적인 전원 공급 및 배터리 보호를 위한 **보호 회로(PCM/BMS) 구성**.
-* **전체 회로 구성도 작성:** 제품 내부의 모든 전장 부품 간의 연결 흐름을 정의하는 **전체 회로도(Circuit Diagram) 설계**.
+## My Role (Circuit & Power Safety Design)
+- **BMS / PCM Protection Circuit:** Designed battery protection architecture to prevent over-charging and over-discharging during operation.
+- **System Circuit Diagram:** Defined electrical interconnections across all internal electronic modules to ensure the 3D mechanical concept was electrically realizable.
 
-## 💡 프로젝트 핵심 역량
-* **기구-회로 융합:** 3D 모델링 데이터와 실제 전기 회로 설계를 결합하여 실현 가능한 제품 구조 제안.
-* **안정성 설계:** 배터리 과충전 및 과방전 방지 로직을 고려한 전력 계통 설계 역량 증명.
-
-## 📁 포함 자료
-* **Design Works:** 공모전 제출용 3D 모델링 이미지 및 설계안
-* **Certification:** 공모전 대상 상장 스캔본
+## Key Takeaways
+- Practiced co-designing electrical schematics within physical 3D enclosure constraints.
+- Focused on power-system safety (BMS) alongside mechanical feasibility.
